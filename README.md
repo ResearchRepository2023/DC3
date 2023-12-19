@@ -1,7 +1,7 @@
-# DC3
-DC3 Metric
+# DC3 (Cognitive Complexity CC Sonar ++)
+DC3 Metric CC Sonar ++
 
-This repository contains the data related to the "Developer-Centric Cognitive Complexity (DC3)": A Metric for Evaluating Code Comprehension Difficulty. The work behind this metric investigates the relationship between code complexity and the comprehension difficulty experienced by programmers when analyzing code.
+This repository contains the data related to the "Developer-Centric Cognitive Complexity (DC3)" CC Sonar ++: A Metric for Evaluating Code Comprehension Difficulty. The work behind this metric investigates the relationship between code complexity and the comprehension difficulty experienced by programmers when analyzing code.
 
 Dataset
 The dataset used in this work is included in the repository. It consists of a set of programs, varying in complexity, that were used for the experiment. Each program is labeled with the corresponding code complexity metrics, including McCabe and Halstead metrics, as well as cognitive complexity metrics obtained from SonarQube. The dataset also contains the EEG data captured during the experiment, which represents the cognitive load experienced by the programmers.
